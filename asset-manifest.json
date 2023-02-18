@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kioku/static/css/main.01070338.css",
+    "main.js": "/kioku/static/js/main.da1d7fb7.js",
+    "static/js/787.754ed205.chunk.js": "/kioku/static/js/787.754ed205.chunk.js",
+    "static/media/hanima.png": "/kioku/static/media/hanima.961e58b97f252a6219f9.png",
+    "static/media/tanjiro.png": "/kioku/static/media/tanjiro.3417e54eac02f6e27316.png",
+    "static/media/bakugo.jpg": "/kioku/static/media/bakugo.b87d37e9e39fca07fa03.jpg",
+    "static/media/all might.jpg": "/kioku/static/media/all might.63266bd866d9721888c0.jpg",
+    "static/media/gabi.jpg": "/kioku/static/media/gabi.a888815bd43d1c3c59ec.jpg",
+    "static/media/deku.jpg": "/kioku/static/media/deku.a2c4e94cf4d5f8b8ff58.jpg",
+    "static/media/Atsu.jpg": "/kioku/static/media/Atsu.530802e7af77d4ab178b.jpg",
+    "static/media/zoya.jpg": "/kioku/static/media/zoya.537198ef8b3e2419aef4.jpg",
+    "static/media/toga.jpg": "/kioku/static/media/toga.592ea1d361163dd02dad.jpg",
+    "static/media/Ochaco.jpg": "/kioku/static/media/Ochaco.7e0aac83f55b2d3ce38c.jpg",
+    "index.html": "/kioku/index.html",
+    "main.01070338.css.map": "/kioku/static/css/main.01070338.css.map",
+    "main.da1d7fb7.js.map": "/kioku/static/js/main.da1d7fb7.js.map",
+    "787.754ed205.chunk.js.map": "/kioku/static/js/787.754ed205.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01070338.css",
+    "static/js/main.da1d7fb7.js"
+  ]
+}
